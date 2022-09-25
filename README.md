@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with entering the world of tech
 - 📫 How to reach me: arooj-ilyas@hotmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I studied Manufacturing Engineering in University
+- ⚡ Fun fact: I studied Manufacturing Engineering at university
 
