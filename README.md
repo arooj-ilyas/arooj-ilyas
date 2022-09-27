@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - :muscle: I’m currently working with the School of Code to become a full-stack web developer!
-- 🌱 I’m currently learning Javascript, HTML, CSS, and lots more
+- 🌱 I’m currently learning Javascript, HTML, CSS, React and lots more
 - 🤔 I’m looking for help with entering the world of tech
 - 📫 How to reach me: arooj-ilyas@hotmail.com
 - 😄 Pronouns: She/Her
