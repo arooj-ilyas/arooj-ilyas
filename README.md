@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with entering the world of tech
 - 📫 How to reach me: arooj-ilyas@hotmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I studied Manufacturing Engineering at university and have some career experience in Marketing!
+- ⚡ Fun fact: I studied Manufacturing Engineering at university and have some career experience in Marketing before making the switch to the full-stack developer life!
 
