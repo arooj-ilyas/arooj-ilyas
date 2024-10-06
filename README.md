@@ -13,9 +13,9 @@ Greetings! Let me introduce myself quickly before you take a look at my work:
 
 As a #WomanInSTEM and #WomanInTech, I'm ready to take on the world one line of code at a time and make my mark in this exciting field. So, if you're looking for someone who's enthusiastic, witty, and passionate about all things tech and never shies away from a challenge, then look no further! 
 
-🌍 I'm currently based in Toronto, Canada
-✉️  You can contact me at [arooji19@gmail.com](mailto:arooji19@gmail.com)
-📷 Follow me on my coding journey on Instagram! [@coder.oo](https://www.instagram.com/coder.oo/)
+- 🌍 I'm currently based in Toronto, Canada
+- ✉️  You can contact me at [arooji19@gmail.com](mailto:arooji19@gmail.com)
+- 📷 Follow me on my coding journey on Instagram! [@coder.oo](https://www.instagram.com/coder.oo/)
 
 ### Skills
 
