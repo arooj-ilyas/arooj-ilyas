@@ -1,7 +1,7 @@
 Hi, I'm Arooj Ilyas ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===================================================================================================================================
 
-🗺 Mapping my way from Manufacturing Engineer ➡️ Computer Engineer
+🗺 Mapping my way from Manufacturing Engineer ➡️ Software Engineer
 ------------------------------------------------------------------
 Greetings! Let me introduce myself quickly before you take a look at my work:
 - School of Code Alumni 👏🏽
