@@ -4,14 +4,20 @@ Hi, I'm Arooj Ilyas ![](https://user-images.githubusercontent.com/18350557/17630
 🗺 Mapping my way from Manufacturing Engineer ➡️ Computer Engineer
 ------------------------------------------------------------------
 
-Greetings! Let me introduce myself - a tech enthusiast who stumbled upon the wonders of development, robotics and everything machine-related while obtaining my Manufacturing Engineering degree. After getting a taste of the development world through my degree and again while working with some coding geniuses at a start-up tech firm, I knew I had to join this transformative community. I made the switch from manufacturing engineer to computer engineer, completed an INTENSE coding bootcamp, and now I'm a proud Graduate Full-Stack Dev! \*cue applause\* 👏🏽 
-<br />
-I'm highly motivated, always bubbly, and ready to learn more about this amazing field. As they say, "If not now, when?" - and for me, the answer was clear: now is the time to pursue a career in Software Development and live amongst the coding gods and goddesses. 👑 As a #WomanInSTEM turned #WomanInTech, I'm ready to take on the world one line of code at a time and make my mark in this exciting field. So, if you're looking for someone who's enthusiastic, witty, and passionate about all things tech, then look no further! I am currently working on creating my portfolio using TailwindCSS, Next.JS, TypeScript, Supabase! Stay tuned and let's code our way to the top! 🚀
+Greetings! Let me introduce myself quickly before you take a look at my work:
+- I moved across the globe from London, UK to Toronto! ✈️
+- Tech enthusiast who stumbled briefly upon the wonders of development, robotics and machine-learning while obtaining my Manufacturing Engineering degree 📜
+- Made the switch from Manufacturing Engineer ➡️ Software Engineer during COVID 🤓
+- School of Code Alumni 👏🏽
+- Industry experience working at multiple start-ups from B2B SaaS to HealthTech!
+- I completed #100DaysOfCode, read all about the start of my journey into tech! ...and stay turned for v2.0! 👀 ()
+- Currently wrapping up my contract as a Full Stack Web Developer at MyNormative, and actively on the hunt for my next challenge!
 
-* 🌍  I'm based in Toronto, Canada / London, UK
+As a #WomanInSTEM and #WomanInTech, I'm ready to take on the world one line of code at a time and make my mark in this exciting field. So, if you're looking for someone who's enthusiastic, witty, and passionate about all things tech and never shies away from a challenge, then look no further! 
+
+* 🌍 I'm currently based in Toronto, Canada
 * ✉️  You can contact me at [arooj-ilyas@hotmail.com](mailto:arooj-ilyas@hotmail.com)
-* 🧠  I'm learning TailwindCSS and Next.JS, and will then move onto Bootstrap, Redux, Document Databases (MongoDB) and Deployment!
-* ⚡  Before making the switch, I gained career experience in Retail and Marketing 🛍
+* 📷 Follow me on my coding journey on Instagram! [@coder.oo] (https://www.instagram.com/coder.oo/)
 
 ### Skills
 
