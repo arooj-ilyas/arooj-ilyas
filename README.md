@@ -15,7 +15,7 @@ As a #WomanInSTEM and #WomanInTech, I'm ready to take on the world one line of c
 - 🌍 I'm currently based in Toronto, Canada
 - ✉️  You can contact me at [arooji19@gmail.com](mailto:arooji19@gmail.com)
 - 📷 Follow me on my coding journey on Instagram! [@coder.oo](https://www.instagram.com/coder.oo/)
-- I completed [#100DaysOfCode](https://github.com/arooj-ilyas/100_days_of_code), read all about the start of my journey into tech! ...and stay turned for v2.0! 👀
+- ✍️ I completed [#100DaysOfCode](https://github.com/arooj-ilyas/100_days_of_code), read all about the start of my journey into tech! ...and stay turned for v2.0! 👀
 
 ### Skills
 
