@@ -3,14 +3,12 @@ Hi, I'm Arooj Ilyas ![](https://user-images.githubusercontent.com/18350557/17630
 
 🗺 Mapping my way from Manufacturing Engineer ➡️ Computer Engineer
 ------------------------------------------------------------------
-
 Greetings! Let me introduce myself quickly before you take a look at my work:
+- School of Code Alumni 👏🏽
 - I moved across the globe from London, UK to Toronto! ✈️
 - Tech enthusiast who stumbled briefly upon the wonders of development, robotics and machine-learning while obtaining my Manufacturing Engineering degree 📜
-- Made the switch from Manufacturing Engineer ➡️ Software Engineer during COVID 🤓
-- School of Code Alumni 👏🏽
+- I completed [#100DaysOfCode] (https://github.com/arooj-ilyas/100_days_of_code), read all about the start of my journey into tech! ...and stay turned for v2.0! 👀
 - Industry experience working at multiple start-ups from B2B SaaS to HealthTech!
-- I completed #100DaysOfCode, read all about the start of my journey into tech! ...and stay turned for v2.0! 👀 ()
 - Currently wrapping up my contract as a Full Stack Web Developer at MyNormative, and actively on the hunt for my next challenge!
 
 As a #WomanInSTEM and #WomanInTech, I'm ready to take on the world one line of code at a time and make my mark in this exciting field. So, if you're looking for someone who's enthusiastic, witty, and passionate about all things tech and never shies away from a challenge, then look no further! 
