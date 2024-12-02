@@ -5,7 +5,7 @@ Hi, I'm Arooj Ilyas ![](https://user-images.githubusercontent.com/18350557/17630
 ------------------------------------------------------------------
 Greetings! Let me introduce myself quickly before you take a look at my work:
 - I gained hands-on experience in AutoCAD, Product Development, Robotics, and Machine Learning while earning my degree in Manufacturing Engineering. 📜
-- As a self-proclaimed tech enthusiast, I couldn't resist the itch to learn coding after graduating—leading to my exciting pivot into Software Engineering.
+- As a self-proclaimed tech enthusiast, I couldn't resist the itch to learn coding after graduating—leading to my exciting pivot into Software Engineering and learning how the Product Development Life Cycle draws parallels to the Software Development Life Cycle.
 - Bootcamp Grad: Proud [School of Code](https://www.schoolofcode.co.uk/) Alumni 👏🏽
 - I moved across the globe from London, UK, to Toronto! ✈️
 - I've had the opportunity to gain industry experience in multiple start-ups, spanning B2B SaaS to HealthTech!
