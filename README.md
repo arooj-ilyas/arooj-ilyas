@@ -1,25 +1,27 @@
 Hi, I'm Arooj Ilyas ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===================================================================================================================================
 
-🗺 Mapping my way from Manufacturing Engineer ➡️ Software Engineer
+🎓 Currently pursuing my **Master of Engineering in Electrical & Computer Engineering** at the University of Toronto 🎓
 ------------------------------------------------------------------
-Greetings! Let me introduce myself quickly before you take a look at my work:
-- I gained hands-on experience in AutoCAD, Product Development, Robotics, and Machine Learning while earning my degree in Manufacturing Engineering. 📜
-- As a self-proclaimed tech enthusiast, I couldn't resist the itch to learn coding after graduating—leading to my exciting pivot into Software Engineering and learning how the Product Development Life Cycle draws parallels to the Software Development Life Cycle.
-- Bootcamp Grad: Proud [School of Code](https://www.schoolofcode.co.uk/) Alumni 👏🏽
-- I moved across the globe from London, UK, to Toronto! ✈️
-- I've had the opportunity to gain industry experience in multiple start-ups, spanning B2B SaaS to HealthTech!
-- Member of a women’s collective founded Canadian based organisation flipping the hiring dynamic in favour of women in tech - scroll down and read my testimonial [here](https://www.trytoast.community/membership)
-- Currently wrapping up my contract as a Full Stack Web Developer at MyNormative, and actively on the hunt for my next challenge 😎
 
-As a #WomanInSTEM and #WomanInTech, I'm ready to take on the world one line of code at a time and make my mark in this exciting field. So, if you're looking for someone who's enthusiastic, witty, and passionate about all things tech and never shies away from a challenge, then look no further.
+## 🎯 Current Focus
 
-- 🌍 I'm currently based in Toronto, Canada
-- ✉️ You can contact me at [arooji19@gmail.com](mailto:arooji19@gmail.com)
-- 📷 Follow me on my coding journey on Instagram! [@coder.oo](https://www.instagram.com/coder.oo/)
-- ✍️ I completed [#100DaysOfCode](https://github.com/arooj-ilyas/100_days_of_code), read all about the start of my journey into tech! ...and stay turned for v2.0! 👀
+- Deepening my understanding of **vehicle propulsion systems and power electronics**
+- Hands-on projects in **software engineering and cloud computing**
+- Exploring **data-driven system design and optimization**
 
-### Skills
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/arooj-ilyas/)  
+- [Email](mailto:arooj.ilyas@mail.utoronto.ca)  
+
+---
+
+I’m always happy to collaborate, learn from others, and share insights along the way. Let’s connect! 🚀
+
+### Current Skills (and going!)
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -38,4 +40,4 @@ As a #WomanInSTEM and #WomanInTech, I'm ready to take on the world one line of c
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/arooj-ilyas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/coder.oo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/arooj-ilyas/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/arooj_dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/arooj-ilyas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/coder.oo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/arooj-ilyas/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
