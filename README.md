@@ -2,7 +2,6 @@ Hi, I'm Arooj Ilyas ![](https://user-images.githubusercontent.com/18350557/17630
 ===================================================================================================================================
 
 🎓 Currently pursuing my **Master of Engineering in Electrical & Computer Engineering** at the University of Toronto 🎓
-------------------------------------------------------------------
 
 ## 🎯 Current Focus
 
